@@ -2,6 +2,7 @@
 import myImage from '../../assets/MyImage.png'
 import { FaArrowRight } from "react-icons/fa";
 import About from '../About/About';
+import Projects from '../Projects/Projects';
 
 const Home = () => {
     return (
@@ -22,6 +23,9 @@ const Home = () => {
             </div>
             <div>
                 <About></About>
+            </div>
+            <div>
+                <Projects></Projects>
             </div>
         </div>
     );
