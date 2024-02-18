@@ -6,7 +6,7 @@ const Home = () => {
         <div>
             <div className="hero min-h-screen bg-base-200 md:px-44">
                 <div className="hero-content flex-col lg:flex-row-reverse">
-                    <img src={myImage} className="max-w-sm rounded-lg" />
+                    <img src={myImage} className="max-w-sm rounded-lg w-1/2" />
                     <div className="">
                         <h1 className="text-5xl font-bold">Hi <br /> I am Jahirul</h1>
                         <p className="py-6">I have more than 1 years of experience in building and designing software. I keep myself upto date with technologies. Currently, I love to work on web applications using technologies like React, Next Js, Redux.</p>
