@@ -6,7 +6,13 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily:{
+      signature : ["Protest Riot"],
+    }
   },
-  plugins: [],
+  plugins: [require("daisyui")],
+  daisyui: {
+    themes: ["light"],
+  },
 }
 
