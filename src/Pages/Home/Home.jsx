@@ -1,3 +1,4 @@
+import SocialLinks from '../../Components/SocialLinks/SocialLinks';
 import myImage from '../../assets/MyImage.png'
 import { FaArrowRight } from "react-icons/fa";
 
@@ -16,6 +17,7 @@ const Home = () => {
                     </div>
                 </div>
             </div>
+            <SocialLinks></SocialLinks>
         </div>
     );
 };
