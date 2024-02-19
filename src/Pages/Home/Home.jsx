@@ -3,6 +3,8 @@ import myImage from '../../assets/MyImage.png'
 import { FaArrowRight } from "react-icons/fa";
 import About from '../About/About';
 import Projects from '../Projects/Projects';
+import Skills from '../Skills/Skills';
+import Contact from '../Contact/Contact';
 
 const Home = () => {
     return (
@@ -26,6 +28,12 @@ const Home = () => {
             </div>
             <div>
                 <Projects></Projects>
+            </div>
+            <div>
+                <Skills></Skills>
+            </div>
+            <div>
+                <Contact></Contact>
             </div>
         </div>
     );
