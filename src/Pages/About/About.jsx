@@ -8,11 +8,23 @@ const About = () => {
                     <p className="text-4xl font-bold inline border-b-4 border-gray-500">About Me</p>
                 </div>
                 <p className="text-xl">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas assumenda voluptatem provident placeat neque commodi ratione harum delectus, eius voluptatum ipsum animi at in vitae! Voluptatum hic animi illum soluta expedita, quibusdam sunt aperiam veniam facere totam tempore placeat accusantium itaque similique eveniet omnis doloribus ipsa molestias numquam ducimus. Dolorem.
+                    Welcome to my portfolio website! I'm Jahirul, a passionate web developer specializing in building modern and dynamic web applications. With expertise in React.js, Firebase, MongoDB, Tailwind CSS, and DaisyUI, I craft efficient and visually appealing digital experiences.
                 </p>
                 <br />
                 <p className="text-xl">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod, reiciendis aspernatur! Sapiente ullam assumenda in, esse dolorum tenetur rerum voluptas ipsa aliquid eum sit reiciendis cumque nobis. Praesentium quidem eligendi cumque possimus modi adipisci ut perspiciatis ab, ea quo culpa assumenda nesciunt deleniti perferendis voluptates autem laboriosam libero numquam provident?
+                    Driven by a love for coding and problem-solving, I thrive on transforming innovative ideas into functional and user-friendly websites. Whether it's creating responsive designs, integrating robust backend systems, or optimizing performance, I am committed to delivering high-quality solutions that exceed expectations.
+                </p>
+                <br />
+                <p className="text-xl">
+                    Throughout my career, I've had the privilege of working on a diverse range of projects, each presenting unique challenges and opportunities for growth. From e-commerce platforms to social networking applications, I bring a versatile skill set and a keen eye for detail to every project I undertake.
+                </p>
+                <br />
+                <p className="text-xl">
+                    As a lifelong learner, I stay up-to-date with the latest technologies and best practices in web development to ensure that my work is always at the forefront of industry standards. Collaboration, communication, and continuous improvement are central to my approach, as I believe in fostering strong partnerships and delivering results that make a lasting impact.
+                </p>
+                <br />
+                <p className="text-xl">
+                    Thank you for visiting my portfolio. I look forward to connecting with you and discussing how we can collaborate to bring your vision to life. Let's build something amazing together!
                 </p>
             </div>
         </div>
