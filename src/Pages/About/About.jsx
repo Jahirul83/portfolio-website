@@ -29,6 +29,9 @@ const About = () => {
                 <p className="text-xl">
                     Thank you for visiting my portfolio. I look forward to connecting with you and discussing how we can collaborate to bring your vision to life. Let's build something amazing together!
                 </p>
+                <p className="text-xl">
+                    Thank you for visiting my portfolio. I look forward to connecting with you and discussing how we can collaborate to bring your vision to life. Let's build something amazing together!
+                </p>
             </div>
         </div>
     );
